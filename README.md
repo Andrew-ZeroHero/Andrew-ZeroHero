@@ -1,5 +1,5 @@
 - Hi, I’m @Andrew-ZeroHero
-- I’m currently learning C, C++, Python, a litlle bit of Java
+- I’m currently learning C, C++, C#, Python, a litlle bit of Java
 - Discord -> ZeroHero#0764
 
 <!---
